@@ -25,7 +25,7 @@ Your list is automatically saved to a `.txt` file and will be loaded the next ti
 To run this program, you'll need to have Java installed on your system. Simply clone this repository and execute the program from your IDE or command line.
 
 ```bash
-git clone https://github.com/yourusername/AlanasProject.git
+git clone https://github.com/TylerPac/AlanasProject.git
 cd AlanasProject
 # Open in your preferred Java IDE and run the project
 ```
