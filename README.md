@@ -1,11 +1,11 @@
 # AlanasProject
 Tyler Pac 
-Current Cource = CEN-3024C  
+Current Course = CEN-3024C  
 CRN = 14320
 
 AlanasProject is a Java-based application developed as part of a homework assignment. The objective was to create a program using a Graphical User Interface (GUI) that incorporates various concepts learned in class (COP 2805C Advanced Java).
 
-This project was inspired by a real-life scenario where my girlfriend and I were planning a date night but couldn't decide where to go. I created this program to help us choose a restaurant.
+This project was inspired by a real-life scenario where my girlfriend Alana and I were planning a date night but couldn't decide where to go. I created this program to help us choose a restaurant.
 
 ![AlanasProjectGUI](AlanasProjectGUI.png)
 
